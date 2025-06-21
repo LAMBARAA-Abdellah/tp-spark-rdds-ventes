@@ -49,5 +49,5 @@ mvn clean compile
 1. Cloner le dépôt :
 
 ```bash
-https://github.com/LAMBARAA-Abdellah/tp-spark-ventes
-cd tp-spark-ventes
+https://github.com/LAMBARAA-Abdellah/tp-spark-rdds-ventes
+cd tp-spark-rdds-ventes
