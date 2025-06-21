@@ -49,5 +49,5 @@ mvn clean compile
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/LAMBARAA-Abdellah/ChatApp.git
-cd ChatApp
+https://github.com/LAMBARAA-Abdellah/tp-spark-ventes
+cd tp-spark-ventes
