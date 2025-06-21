@@ -1,4 +1,4 @@
-# 📊 Total Ventes – Apache Spark (Java)
+# 📊 Total Ventes – Apache Spark (Java)  Programmationn des RDDs
 
 Projet Spark RDD en Java pour le calcul des ventes par ville et par ville/année.
 
